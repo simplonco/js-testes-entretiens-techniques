@@ -35,6 +35,10 @@ Quelques références de testes techniques
 
 * https://www.codementor.io/officehours/1335595426/live-mock-interview-javascript-front-end
 
+## Soft skills
+
+* https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466
+
 ## A tester...
 
 * https://www.glassdoor.fr/Entretien/index.htm
