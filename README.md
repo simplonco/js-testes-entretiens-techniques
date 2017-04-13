@@ -13,7 +13,7 @@ Quelques références d'entretien et de testes techniques
 * https://www.interviewcake.com/javascript-interview-questions
 * https://www.sitepoint.com/5-typical-javascript-interview-exercises/
 * http://thatjsdude.com/interview/index.html
-* * https://github.com/adam-s/js-interview-review
+* https://github.com/adam-s/js-interview-review
 * https://www.frontendhandbook.com/practice/interview-q.html
 
 * https://gist.github.com/kutyel/87ca38574b9375c8df91bd8df2fa8bb3 (Entretien chez Skype)
