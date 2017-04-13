@@ -1,5 +1,4 @@
-# js-testes-techniques
-Quelques références de testes techniques
+Quelques références d'entretien et de testes techniques
 
 ## Questions techniques (en français)
 
