@@ -1,6 +1,10 @@
 # js-testes-techniques
 Quelques références de testes techniques
 
+## Questions techniques (en français)
+
+* https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/French
+
 ## Javascript (en anglais)
 
 * https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z
@@ -10,8 +14,8 @@ Quelques références de testes techniques
 * https://www.interviewcake.com/javascript-interview-questions
 * https://www.sitepoint.com/5-typical-javascript-interview-exercises/
 * http://thatjsdude.com/interview/index.html
+* * https://github.com/adam-s/js-interview-review
 * https://www.frontendhandbook.com/practice/interview-q.html
-* https://github.com/adam-s/js-interview-review
 
 * https://gist.github.com/kutyel/87ca38574b9375c8df91bd8df2fa8bb3 (Entretien chez Skype)
 * https://www.glassdoor.fr/Entretien/Facebook-Front-End-Engineer-questions-entretien-d-embauche-EI_IE40772.0,8_KO9,27.htm?countryRedirect=true (entretien chez Facebook)
@@ -29,7 +33,6 @@ Quelques références de testes techniques
 
 * http://davidshariff.com/quiz/
 * https://www.w3schools.com/js/js_quiz.asp
-
 
 ## Témoignages (en anglais)
 
